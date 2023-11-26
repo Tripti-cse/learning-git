@@ -1,4 +1,4 @@
 # learning-git
-This is my first git repo.
+This is my first git repository.
 <br>
-Author-Tripti tiwari
+Author-Tripti Tiwari
